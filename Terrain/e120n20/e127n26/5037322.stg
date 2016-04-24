@@ -1,0 +1,5 @@
+OBJECT_BASE 5037322.btg
+OBJECT ROAH.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 127.645901 26.209779 3.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 127.645835 26.181852 3.1 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 127.647472 26.195878 4.9 0.00
