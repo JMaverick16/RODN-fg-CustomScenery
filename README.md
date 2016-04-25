@@ -10,7 +10,7 @@ Installation instructions
 -------------------------
 In order to see all the 3D objects, this scenery pack requires the AirBase models pack available here: https://github.com/JMaverick16/AirBase_models-pack
 
-*Ground networks and tower position:*
+*Tower position:*
 
 1. Put `Airports/R/O/D/RODN.twr.xml` in `$FG_SCENERY/Airports/R/O/D/RODN.twr.xml`.
 
